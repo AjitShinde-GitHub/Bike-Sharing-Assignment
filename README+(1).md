@@ -44,7 +44,7 @@ The summary of the model after data interpretation, visualisation, data-preparat
 - Rentals were more in 2019 than 2018 which suggests that over time more people would be exposed to this idea and there has to a strong analysis done to retain the repeat customers.
 
 ## Contact
-Created by [@AjitShinde-Github] - feel free to contact me!
+Created by @AjitShinde-Github - feel free to contact me!
 
 
 <!-- Optional -->
